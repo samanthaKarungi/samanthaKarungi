@@ -1,4 +1,4 @@
--👋 Hi, I am samanthaKarungi a student at ALX-Africa!
+-👋 Hi, I am samanthaKarungi
 
 -👀 I’m interested in software development,Data Science, AI & MAchine Learning
 
